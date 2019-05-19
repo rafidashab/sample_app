@@ -1,26 +1,3 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version 2.6.1
-
-* System dependencies Check Gemfile
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite 
-
-rails test
-
-* Services (job queues, cache servers, search engines, etc.)
-
 ## Getting started
 
 To get started with the app, clone the repo and then install the needed gems:
